@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and efficient backend architecture**.
 - 💻 I’m open to collaborating on innovative web or mobile projects.
 - 💬 Ask me about **React, Node.js, Kotlin, or Native Android Development**.
-- 📫 How to reach me: **[almasfaiqkh@gmail.com](mailto:almasfaiqkh@gmail.com)**
+- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)**
 
 ---
 
@@ -25,7 +25,7 @@
     <strong>Frontend:</strong><br>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-    <a href="https://vitejs.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/vitejs/vitejs-icon.svg" alt="vite" width="40" height="40"/></a>
+    <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/vite.svg" alt="vite" width="40" height="40"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
@@ -55,19 +55,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/almasfaiqkh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/almsfaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-</p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=almasfaiqkh&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="Almas's GitHub Stats" />
-  <br/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almasfaiqkh&layout=compact&theme=dracula&hide_border=true" alt="Almas's Top Languages" />
 </p>
