@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-    I am an undergraduate student at <strong>Telkom Institute of Technology Purwokerto</strong> and a proud graduate of the <strong>Bangkit Academy 2023</strong> program, specializing in the Mobile Development cohort.
+    I am an undergraduate student at <strong>Telkom University Purwokerto</strong> and a proud graduate of the <strong>Bangkit Academy 2023</strong> program, specializing in the Mobile Development cohort.
 </p>
 
 <p align="left">
@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **Next.js, TypeScript, and efficient backend architecture**.
 - 💻 I’m open to collaborating on innovative web or mobile projects.
 - 💬 Ask me about **React, Node.js, Kotlin, or Native Android Development**.
-- 📫 How to reach me: **[your.email@example.com](mailto:your.email@example.com)** (replace with your email).
+- 📫 How to reach me: **[almasfaiqkh@gmail.com](mailto:almasfaiqkh@gmail.com)**.
 
 ---
 
